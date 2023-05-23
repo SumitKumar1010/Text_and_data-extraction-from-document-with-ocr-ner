@@ -1,0 +1,1 @@
+# Text_and_data-extraction-from-document-with-ocr-ner
